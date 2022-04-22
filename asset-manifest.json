@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/umich-events-complete/static/css/main.073c9b0a.css",
-    "main.js": "/umich-events-complete/static/js/main.80aef8fe.js",
-    "static/js/787.801ce7aa.chunk.js": "/umich-events-complete/static/js/787.801ce7aa.chunk.js",
-    "static/media/logo.svg": "/umich-events-complete/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/umich-events-complete/index.html",
-    "main.073c9b0a.css.map": "/umich-events-complete/static/css/main.073c9b0a.css.map",
-    "main.80aef8fe.js.map": "/umich-events-complete/static/js/main.80aef8fe.js.map",
-    "787.801ce7aa.chunk.js.map": "/umich-events-complete/static/js/787.801ce7aa.chunk.js.map"
+    "main.css": "/PS6/static/css/main.073c9b0a.css",
+    "main.js": "/PS6/static/js/main.887c3dba.js",
+    "static/js/787.801ce7aa.chunk.js": "/PS6/static/js/787.801ce7aa.chunk.js",
+    "static/media/logo.svg": "/PS6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PS6/index.html",
+    "main.073c9b0a.css.map": "/PS6/static/css/main.073c9b0a.css.map",
+    "main.887c3dba.js.map": "/PS6/static/js/main.887c3dba.js.map",
+    "787.801ce7aa.chunk.js.map": "/PS6/static/js/787.801ce7aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.80aef8fe.js"
+    "static/js/main.887c3dba.js"
   ]
 }
